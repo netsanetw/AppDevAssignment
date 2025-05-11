@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppDevAssignment</string>
+
+    <!-- Correctly placed string resources -->
+    <string name="show_more">Show more</string>
+    <string name="show_less">Show less</string>
+</resources>
